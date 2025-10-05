@@ -1,2 +1,2 @@
-# gfg_movie_app-student-version
-Movie App
+Add your own API key in js
+
